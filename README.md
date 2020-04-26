@@ -16,4 +16,4 @@ To Configure application please see ./config.json
 5. To build the project run `npm run build`
 
 ## Live Demo
-[Go to site](https://badgamerbad.github.io/Safety-Councillor/)
+[Go to site](https://vipuldessai.github.io/Safety-Councillor/)
