@@ -1,5 +1,4 @@
-# Safety Councillor
-Welcome to Safety Site - Phase 1, currently the phase 1 will host a static page providing information about the respective councillor and what type of work they carry out, what is their objective, the services they provide to the customer.
+# Slide Show
 
 ## Installations
 To install all dependencies run following command.
